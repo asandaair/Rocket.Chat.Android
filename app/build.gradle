@@ -9,7 +9,7 @@ android {
     buildToolsVersion versions.buildTools
 
     defaultConfig {
-        applicationId "chat.rocket.android"
+        applicationId "com.asandaair.asanda.chat"
         minSdkVersion versions.minSdk
         targetSdkVersion versions.targetSdk
         versionCode 2034
