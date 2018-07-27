@@ -229,6 +229,68 @@
     },
     {
       "client_info": {
+        "mobilesdk_app_id": "1:848195414462:android:c07967c394c812a2",
+        "android_client_info": {
+          "package_name": "com.asandaair.asanda.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848195414462-udcd994050ehf49u0o83s6l5psjmjral.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeYCrj3nXt6bcNfSCBB0Hb_QxgpLEx_Qw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848195414462:android:24375362879095d3",
+        "android_client_info": {
+          "package_name": "com.asandaair.asanda.chat.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848195414462-udcd994050ehf49u0o83s6l5psjmjral.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeYCrj3nXt6bcNfSCBB0Hb_QxgpLEx_Qw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
         "mobilesdk_app_id": "1:673693445664:android:64932c99863e2838",
         "android_client_info": {
           "package_name": "com.konecty.rocket.chat"
